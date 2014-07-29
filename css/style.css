@@ -56,3 +56,19 @@
 	padding: 5%;
 
 }
+#searchInput{
+	float:left;
+	width:70%;
+}
+.search-form button{
+	width:30%;
+}
+.logo{
+	display:block;
+}
+#linkList li{
+	float: left;
+}
+.btnDiv {
+	width:50%;
+}
